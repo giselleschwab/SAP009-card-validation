@@ -6,26 +6,35 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header>
-      <h1>VALIDE O SEU CARTÃO</h1>
-    </header>
-    <main>
-        <img class="cardImage" src="cartão.png"> 
-        <p class="p1"> A validação do seu cartão é rápida e necessária <br> para
-          processar seu pagamento de forma segura 
-        </p>
-      
-       <section class="cardForm">
-         <input type="text" id="cardNumber" class="inputCard" 
-         placeholder="Insira o número do cartão de crédito">
-         <button type="buttom" id="button1" class="validation" value="Validar"> VALIDAR </button>
-       </section>
+      <header class="header">
+        <img class="logo" src="img/logo.png">
+        <nav>
+         <ul class = "páginas">
+          <li>Home</li>
+          <li>Carrinho</li>
+          <li>Produtos</li>
+         </ul>
+        </nav>
+      </header>
+       <main>
+          <p class = "p1"> Oba!! Falta pouco pra você adquirir sua pecinha Vintage... </p>
+          <section class = "infoCard">
+            <p class="p2"> A validação do seu cartão é rápida e <br> necessária para
+            processar seu <br> pagamento de forma segura 
+            </p>
+            <img class="cardImage" src="img/cartão_imagem.png">
+            <input type="text" name="cardNumber" id="inputCardNumber" class="inputCard" 
+            placeholder="Insira o número do cartão de crédito" maxlength="16" pattern="^[0-9]+">  
+            <button type="buttom" id="button1" class="botão" value="Validar"> VALIDAR </button>
+         </section>
+    </main>         
+    <footer> 
+      <section class = "footer">
+        <a>@O.GAIABRECHO</a>
+      </section> 
+    </footer>
 
-    
-          
-      
-    </main>
-    <footer></footer>
     <script src="index.js" type="module"></script>
   </body>
+
 </html>
