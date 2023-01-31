@@ -15,6 +15,7 @@ que antes da realização do pagamento será feita uma validação do cartão
 Protótipo que foi realizado no Figma de como ficaria a interface de validação
 e também a paleta de cores que seria utilizada
 
-[Protótipo] (/src/img/projeto_figma.png)
+![projeto_figma](https://user-images.githubusercontent.com/118859853/215850458-1f0ec9f6-4d9d-4675-a39f-5b81c77e8cbf.png)
+
 
 
