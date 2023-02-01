@@ -8,7 +8,7 @@ por meio do
 
 ## 2. Resumo do projeto
 
-Para esse projeto a validação vai ser realizada em um site de Brechó Online,
+Para esse projeto a validação foi realizada em um site de Brechó Online,
 que antes da realização do pagamento será feita uma validação do cartão
 
 ### Protótipo do projeto realizado no Figma
