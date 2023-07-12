@@ -1,6 +1,5 @@
 # Cartão de Crédito Válido
 
-
 <div align="center">
 <p> Ferramentas utilizadas </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px";/>
@@ -10,7 +9,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px";/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
 </div>
-
 
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
