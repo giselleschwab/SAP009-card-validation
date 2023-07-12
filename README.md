@@ -41,6 +41,7 @@ A interface é construída usando HTML para estruturar a página, CSS para estil
 ### 3. Protótipo do projeto realizado no Figma
 
 Foi criado um protótipo da interface no Figma para ajudar na visualização e no design do projeto
+
 ![projeto_figma](https://user-images.githubusercontent.com/118859853/215850458-1f0ec9f6-4d9d-4675-a39f-5b81c77e8cbf.png)
 
 
